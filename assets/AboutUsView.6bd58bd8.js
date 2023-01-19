@@ -1,1 +1,0 @@
-import{_ as t,r as o,o as s,c as n,a as c,w as a,b as r}from"./index.829d589d.js";const _={},l={class:"container columns-md"},d=r("h1",{class:"text-3xl font-bold underline"}," About Us ",-1);function i(u,f){const e=o("center");return s(),n("div",l,[c(e,null,{default:a(()=>[d]),_:1})])}const p=t(_,[["render",i]]);export{p as default};
